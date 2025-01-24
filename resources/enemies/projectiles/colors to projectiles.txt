@@ -1,0 +1,5 @@
+enemy1: #d0502d
+enemy2: #59acc2
+enemy3: #bb5e4c
+enemy4: #194b90
+enemy5: #808080
