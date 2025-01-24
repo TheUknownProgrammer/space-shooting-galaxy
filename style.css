@@ -1,0 +1,24 @@
+body {
+    overflow: hidden;
+}
+#container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(rgba(125, 125, 125, 0.5), rgba(125, 125, 125, 0.5)), url("resources/space.jpg");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#canvas {
+    background-image: url("resources/space.jpg");
+    cursor: pointer;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+}
